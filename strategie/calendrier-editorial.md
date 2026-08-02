@@ -52,5 +52,19 @@
 
 **Reste à faire avant publication :** la direction choisit la variante, fournit le visuel (portraits des deux associés déjà utilisés sur le site, ou nouvelle photo), puis publie.
 
+## Banque de contenu — Pilier conseil (5 options produites le 2 août 2026)
+
+Produites par `redacteur-contenu` sur brief du `directeur-marketing`, à la demande de la direction : 5 sujets distincts pour le pilier conseil, dont un délibérément humoristique (rupture de ton assumée). Textes complets conservés hors de ce fichier (transmis dans la conversation) — résumé et statut QA ci-dessous ; à recopier dans la grille du mois choisi une fois qu'un sujet est retenu pour une date précise.
+
+| # | Sujet | Format | Statut QA |
+|---|---|---|---|
+| 1 | Le terrain avant l'architecte — 4 choses à vérifier | Carrousel pédagogique (5 slides) | Validé |
+| 2 | 5 signes qu'il faut réhabiliter plutôt que reconstruire | Post liste | Validé — met en avant une vraie expertise BMK sans nommer de client |
+| 3 | Le vrai coût d'un projet (postes de dépense oubliés) | Post simple, mini-anecdote | Validé avec réserve — l'anecdote est un procédé générique, pas un témoignage client vérifié ; à faire valider par la direction si un ton plus factuel est préféré |
+| 4 | Pourquoi le suivi de chantier change tout | Post simple | Validé |
+| 5 | **[Humoristique]** Traduction architecte-français | Carrousel comique (4-5 slides) | Validé — humour centré sur le métier, aucun client visé ni identifiable |
+
+*Reste à faire : la direction choisit l'ordre et les dates de publication parmi ces 5, fournit les visuels correspondants, puis le `directeur-marketing` les insère dans la grille mensuelle avec statut « Prêt à publier ».*
+
 ---
 *Calendrier vivant — mis à jour par `directeur-marketing` au fil des livrables reçus et des décisions de la direction.*
