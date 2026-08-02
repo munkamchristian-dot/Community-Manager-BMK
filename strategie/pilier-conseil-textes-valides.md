@@ -125,6 +125,12 @@
 
 **Contrainte de ton :** l'humour porte exclusivement sur les tics du métier d'architecte en général, jamais sur une personne, un client ou un chantier réel identifiable.
 
+### Banque de blagues supplémentaires (validées, réserve pour une prochaine publication humoristique)
+
+Produites par `redacteur-contenu` le 2 août 2026, format identique, à ne pas insérer dans le carrousel déjà finalisé ci-dessus (qui reste à 3 exemples) mais à réserver pour un futur post du pilier humoristique.
+
+- **Exemple 4 (validé) :** CE QU'ON DIT : « On veut juste une maison qui nous ressemble. » / CE QU'ON PENSE : « Formidable. Vous nous avez envoyé une photo de yacht, une de chalet suisse, et une de la Maison Blanche. On sent qu'on va bien s'amuser. » — ressort comique : escalade absurde en trois temps, ironie par euphémisme.
+
 ---
 
 *Fichier canonique — toute nouvelle production (visuels, prompts IA, variantes) doit se référer à ce fichier et non reformuler les sujets ou les textes.*
