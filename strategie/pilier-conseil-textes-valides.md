@@ -121,41 +121,54 @@
 
 ---
 
-## Publication 5 — [HUMORISTIQUE] « Traduction architecte-français »
+## Publication 5 — [HUMORISTIQUE] (v2, remplacée le 2 août 2026 — 3 sketches façon dialogue/chat)
 
-**Format :** Carrousel comique, 5 slides (1 cover + 3 exemples + 1 clôture). **Ne pas remplacer ce sujet par un autre — c'est la seule publication humoristique du lot, changement de registre volontaire.**
+> **Historique :** le format initial (« Traduction architecte-français », CE QU'ON DIT / CE QU'ON PENSE, 5 slides) est remplacé par 3 sketches en dialogue, rédigés directement par la direction. Conservé en archive en bas de cette section, réutilisable pour une future publication humoristique distincte. **Cette publication reste la seule à registre humoristique du pilier conseil — changement de registre volontaire.**
 
-**Légende Instagram :**
+**Format :** Carrousel comique, 9 slides — 3 sketches de 3 slides chacun (pas de slide de cover/clôture séparée, chaque sketch se suffit à lui-même).
+
+**Contrainte de ton :** personnages génériques (« Client », « Architecte », « Entrepreneur ») jamais nommés ni identifiables à une personne ou un chantier réel de BMK. Le budget « 45 millions » du sketch 1 est un montant comique et volontairement flou (pas une référence à un vrai projet ou un vrai client — ne pas préciser la devise dans le texte, c'est le ressort de la chute).
+
+### Sketch 1 — « Le budget » (slides 1 à 3)
+
+1. Client : « On veut une villa de 800 m², piscine à débordement, ascenseur, salle cinéma, cave à vin, rooftop… avec un budget de 45 millions. »
+2. (Temps de pause — l'architecte qui réfléchit/calcule, sans texte ou avec juste « … »)
+3. Architecte : « Ah… vous parliez en CFA ou en Monopoly ? »
+
+### Sketch 2 — « Les modifications » (slides 4 à 6)
+
+4. Client : « J'ai juste une toute petite modification. » — Architecte, 9h00 : 😊
+5. La « petite modification » (liste) : Déplacer l'escalier — Changer toute la façade — Ajouter un étage — Tourner la maison de 90°
+6. Architecte, 9h05 : 💀
+
+### Sketch 3 — « Le chantier » (slides 7 à 9)
+
+7. Entrepreneur (au téléphone) : « Chef, tout est conforme au plan ! »
+8. L'architecte arrive sur le chantier (liste, avec ❌) : Fenêtre déplacée — Porte inversée — Escalier modifié — Poteau « oublié »
+9. Entrepreneur : « On a juste fait quelques petites améliorations… »
+
+**Légende Instagram (à valider/ajuster si besoin) :**
 > On vous avait promis un peu de sérieux cette semaine. On a changé d'avis.
 >
-> Petit lexique architecte-français, basé sur des situations 100 % vécues (mais anonymisées, on protège nos sources) :
+> Trois scènes 100 % vécues chez BMK (mais anonymisées, on protège nos sources) : le budget qui ne dit pas tout à fait son vrai visage, la « petite modification » qui n'en est pas une, et le chantier qui a parfois sa propre interprétation du plan.
 >
-> « C'est juste un petit ajustement » → traduction : on va replanifier trois corps de métier.
+> Bref, on adore ce métier, même les jours où rien ne se passe tout à fait comme prévu.
 >
-> « On peut sûrement trouver un compromis » → traduction : ce mot n'existe pas chez BMK, on va juste trouver LA solution.
->
-> « Un architecte, ça sert à faire de jolis dessins » → traduction : on a aussi un mètre laser dans le sac, une appli météo ouverte en permanence, et une opinion très arrêtée sur l'alignement de vos cadres photo au mur.
->
-> Bref, on adore ce métier, même les jours où le chantier a d'autres plans que nous.
->
-> Et vous, c'est quoi la phrase qu'on vous a le plus souvent sortie sur un chantier ou un projet de rénovation ? On veut rire un peu avec vous en commentaire.
+> Et vous, ça vous rappelle quelque chose ? Racontez-nous en commentaire.
 
 **Hashtags :** #BmkArchitects #HumourArchitecte #ViedeChantier #ArchitectureCameroun
 
-**Contenu écran par slide :**
-1. Cover — « TRADUCTION ARCHITECTE-FRANÇAIS » + « Ce qu'on dit vs ce qu'on pense vraiment »
-2. Exemple 1 — CE QU'ON DIT : « C'est juste un petit ajustement » / CE QU'ON PENSE : « on va replanifier trois corps de métier »
-3. Exemple 2 — CE QU'ON DIT : « On peut sûrement trouver un compromis » / CE QU'ON PENSE : « ce mot n'existe pas chez BMK, on va juste trouver LA solution »
-4. Exemple 3 — CE QU'ON DIT : « Un architecte, ça sert à faire de jolis dessins » / CE QU'ON PENSE : « on a aussi un mètre laser dans le sac, une appli météo ouverte en permanence, et une opinion très arrêtée sur l'alignement de vos cadres photo au mur »
-5. Clôture — « Bref, on adore ce métier, même les jours où le chantier a d'autres plans que nous. » + logo + #BmkArchitects
+**⚠ Point de vigilance (à signaler à la direction) :** le sketch 3 met en scène un entrepreneur qui ne respecte pas les plans et cherche des excuses — humour de métier très courant et largement partagé, mais qui peut être lu par de vrais partenaires entrepreneurs de BMK comme une pique. Aucun entrepreneur réel n'est nommé ni identifiable, le registre reste bon enfant, mais à garder en tête si BMK travaille en relation étroite avec des entreprises partenaires sensibles à ce genre d'humour.
 
-**Contrainte de ton :** l'humour porte exclusivement sur les tics du métier d'architecte en général, jamais sur une personne, un client ou un chantier réel identifiable.
+### Archive — ancien format « Traduction architecte-français » (non utilisé, réserve pour une future publication distincte)
 
-### Banque de blagues supplémentaires (validées, réserve pour une prochaine publication humoristique)
-
-Produites par `redacteur-contenu` le 2 août 2026, format identique, à ne pas insérer dans le carrousel déjà finalisé ci-dessus (qui reste à 3 exemples) mais à réserver pour un futur post du pilier humoristique.
-
-- **Exemple 4 (validé) :** CE QU'ON DIT : « On veut juste une maison qui nous ressemble. » / CE QU'ON PENSE : « Formidable. Vous nous avez envoyé une photo de yacht, une de chalet suisse, et une de la Maison Blanche. On sent qu'on va bien s'amuser. » — ressort comique : escalade absurde en trois temps, ironie par euphémisme.
+Ancienne version 5 slides (cover + 3 exemples CE QU'ON DIT/CE QU'ON PENSE + clôture) + 1 exemple supplémentaire en banque, tous validés précédemment mais remplacés ci-dessus :
+- Cover : « TRADUCTION ARCHITECTE-FRANÇAIS » + « Ce qu'on dit vs ce qu'on pense vraiment »
+- « C'est juste un petit ajustement » → « on va replanifier trois corps de métier »
+- « On peut sûrement trouver un compromis » → « ce mot n'existe pas chez BMK, on va juste trouver LA solution »
+- « Un architecte, ça sert à faire de jolis dessins » → « on a aussi un mètre laser dans le sac, une appli météo ouverte en permanence, et une opinion très arrêtée sur l'alignement de vos cadres photo au mur »
+- Clôture : « Bref, on adore ce métier, même les jours où le chantier a d'autres plans que nous. »
+- Exemple en réserve : « On veut juste une maison qui nous ressemble. » → « Formidable. Vous nous avez envoyé une photo de yacht, une de chalet suisse, et une de la Maison Blanche. On sent qu'on va bien s'amuser. »
 
 ---
 
