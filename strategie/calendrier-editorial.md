@@ -59,7 +59,7 @@ Produites par `redacteur-contenu` sur brief du `directeur-marketing`, à la dema
 | # | Sujet | Format | Statut QA |
 |---|---|---|---|
 | 1 | Le bon moment pour faire appel à l'architecte ? (repositionné le 2 août 2026 — v2, voir historique dans `pilier-conseil-textes-valides.md`) | Carrousel pédagogique (6 slides) | Validé après 2 itérations — angle recentré sur « dès l'idée », le terrain n'est plus l'accroche |
-| 2 | 5 signes qu'il faut réhabiliter plutôt que reconstruire | Post liste (1 visuel) | Validé — met en avant une vraie expertise BMK sans nommer de client |
+| 2 | 5 signes qu'il faut réhabiliter plutôt que reconstruire | Carrousel (7 slides — converti depuis un post liste le 2 août 2026) | Validé — met en avant une vraie expertise BMK sans nommer de client |
 | 3 | Le vrai coût d'un projet (postes de dépense oubliés) | Carrousel (6 slides — converti depuis un post simple le 2 août 2026) | Validé avec réserve — l'anecdote de la légende est un procédé générique, pas un témoignage client vérifié ; aucune slide ne la présente comme une citation attribuée |
 | 4 | Pourquoi le suivi de chantier change tout | Carrousel (5 slides — converti depuis un post simple le 2 août 2026) | Validé — priorité toujours à une vraie photo de chantier BMK pour tout ou partie des slides ; version illustrée de secours prête |
 | 5 | **[Humoristique]** Traduction architecte-français | Carrousel comique (**5 slides** — corrigé de 4-5 à 5, cover + 3 exemples + clôture) | Validé — humour centré sur le métier, aucun client visé ni identifiable |
