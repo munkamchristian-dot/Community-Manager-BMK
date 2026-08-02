@@ -64,7 +64,7 @@ Produites par `redacteur-contenu` sur brief du `directeur-marketing`, à la dema
 | 4 | Pourquoi le suivi de chantier change tout | Post simple | Validé — voir §D.2 : opportunité prioritaire pour combler le déficit de contenu chantier/coulisses |
 | 5 | **[Humoristique]** Traduction architecte-français | Carrousel comique (**5 slides** — corrigé de 4-5 à 5, cover + 3 exemples + clôture) | Validé — humour centré sur le métier, aucun client visé ni identifiable |
 
-*Reste à faire : la direction choisit l'ordre et les dates de publication parmi ces 5, fournit les visuels correspondants selon le brief visuel détaillé (`strategie/documents/Brief_Visuel_Slides_Pilier_Conseil_BMK.pdf`), puis le `directeur-marketing` les insère dans la grille mensuelle avec statut « Prêt à publier ».*
+*Prompts de génération IA finalisés et validés le 2 août 2026 : `strategie/prompts-ia-pilier-conseil.md` (charte vert #73c34a, logo réel `assets/logo/bmk-logo.png`, coordonnées site/Instagram, qualité 4K). Reste à faire : la direction génère les visuels avec ces prompts (ou fournit une vraie photo de chantier pour la publication 4), choisit l'ordre et les dates de publication parmi ces 5, puis le `directeur-marketing` les insère dans la grille mensuelle avec statut « Prêt à publier ».*
 
 ---
 *Calendrier vivant — mis à jour par `directeur-marketing` au fil des livrables reçus et des décisions de la direction.*
