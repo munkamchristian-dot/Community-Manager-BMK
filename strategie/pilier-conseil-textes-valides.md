@@ -37,7 +37,7 @@
 
 ## Publication 2 — « 5 signes qu'il est temps de réhabiliter (plutôt que de tout reconstruire) »
 
-**Format :** Post liste, 1 slide.
+**Format :** Carrousel, 7 slides (converti depuis un post liste le 2 août 2026, à la demande de la direction).
 
 **Légende Instagram :**
 > Réhabiliter n'est pas un plan B. C'est souvent la meilleure décision.
@@ -55,7 +55,14 @@
 
 **Hashtags :** #BmkArchitects #Réhabilitation #ArchitectureDurable #RénovationCameroun
 
-**Contenu écran (slide unique) :** en-tête « 5 SIGNES QU'IL EST TEMPS DE RÉHABILITER » + sous-titre « (plutôt que de tout reconstruire) » ; corps = les 5 signes numérotés 01-05, texte exact repris de la légende ci-dessus (version courte de chaque point) ; bas de visuel = logo + #BmkArchitects.
+**Contenu écran par slide :**
+1. Accroche — « 5 SIGNES QU'IL EST TEMPS DE RÉHABILITER » + « (plutôt que de tout reconstruire) »
+2. « 01 » — « La structure est saine » — les espaces ne correspondent plus à vos usages
+3. « 02 » — « L'usure reste superficielle » — façades ou toitures marquées, sans que le bâtiment soit menacé
+4. « 03 » — « Agrandir n'est pas toujours nécessaire » — une réorganisation intelligente peut suffire
+5. « 04 » — « Le bâtiment a de la valeur » — emplacement, histoire, matériaux à préserver
+6. « 05 » — « Le budget penche vers la rénovation » — plus proche d'une rénovation ambitieuse que d'une reconstruction
+7. Clôture/signature — « Réhabiliter demande de la finesse. C'est un exercice qu'on aime particulièrement. »
 
 ---
 
