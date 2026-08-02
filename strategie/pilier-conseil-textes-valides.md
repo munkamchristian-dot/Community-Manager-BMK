@@ -141,11 +141,11 @@
 5. La « petite modification » (liste) : Déplacer l'escalier — Changer toute la façade — Ajouter un étage — Tourner la maison de 90°
 6. Architecte, 9h05 : 💀
 
-### Sketch 3 — « Le chantier » (slides 7 à 9)
+### Sketch 3 — « Le chantier » (slides 7 à 9, version adoucie validée le 2 août 2026)
 
-7. Entrepreneur (au téléphone) : « Chef, tout est conforme au plan ! »
-8. L'architecte arrive sur le chantier (liste, avec ❌) : Fenêtre déplacée — Porte inversée — Escalier modifié — Poteau « oublié »
-9. Entrepreneur : « On a juste fait quelques petites améliorations… »
+7. Entrepreneur (au téléphone, tout sourire) : « Chef, ça avance, ça avance ! »
+8. L'architecte arrive sur le chantier (liste, icônes 👀 plutôt que ❌ — le chantier est le sujet des écarts, pas l'entrepreneur) : La fenêtre a un peu bougé — La porte s'est retournée — L'escalier a pris une autre forme — Un poteau fait une pause
+9. Entrepreneur (l'air complice, pas gêné) : « Le chantier a ses humeurs, chef ! »
 
 **Légende Instagram (à valider/ajuster si besoin) :**
 > On vous avait promis un peu de sérieux cette semaine. On a changé d'avis.
@@ -158,7 +158,7 @@
 
 **Hashtags :** #BmkArchitects #HumourArchitecte #ViedeChantier #ArchitectureCameroun
 
-**⚠ Point de vigilance (à signaler à la direction) :** le sketch 3 met en scène un entrepreneur qui ne respecte pas les plans et cherche des excuses — humour de métier très courant et largement partagé, mais qui peut être lu par de vrais partenaires entrepreneurs de BMK comme une pique. Aucun entrepreneur réel n'est nommé ni identifiable, le registre reste bon enfant, mais à garder en tête si BMK travaille en relation étroite avec des entreprises partenaires sensibles à ce genre d'humour.
+**Point de vigilance traité :** la version initiale du sketch 3 mettait l'entrepreneur en position de "pris en faute qui cherche des excuses" — jugée trop piquante pour de vrais partenaires entrepreneurs. La version ci-dessus déplace le ressort comique sur l'imprévisibilité du chantier lui-même (le chantier "a ses humeurs") plutôt que sur la sincérité ou la compétence de l'entrepreneur.
 
 ### Archive — ancien format « Traduction architecte-français » (non utilisé, réserve pour une future publication distincte)
 
