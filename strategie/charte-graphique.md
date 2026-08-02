@@ -17,9 +17,9 @@
 
 Le logo réel de BMK Architects a été fourni par la direction (fichier image) : un monogramme « B▲▲K » où le B et le K sont en noir plein, et les deux sommets centraux forment deux triangles superposés façon pics de montagne — le triangle de gauche en anthracite/gris foncé, le triangle de droite en vert `#73c34a`, avec une zone de recouvrement plus sombre au centre. En dessous, le mot « Architects » en noir, dans une police fine.
 
-**Statut du fichier logo :** la direction a transmis ce logo directement dans la conversation, mais le fichier n'a pas pu être récupéré techniquement sur cette session (image reçue sans pièce jointe accessible). **À redemander en pièce jointe classique (comme les captures d'écran précédentes)** pour qu'il soit versé dans `assets/logo/` du dépôt et utilisé en post-production.
+**Statut du fichier logo :** récupéré et versé dans le dépôt sous `assets/logo/bmk-logo.png` (2000×889 px, fond transparent, vert vérifié conforme à `#73c34a`). C'est ce fichier qui doit être utilisé pour toute incrustation en post-production.
 
-**Pour les prompts de génération IA :** les générateurs d'image ne reproduisent pas fidèlement un logo existant. Chaque prompt continue donc à réserver un espace vide en bas à droite (repère générique triangle/pic de montagne minimaliste dans les couleurs de la charte) — le vrai logo (une fois le fichier récupéré) est incrusté en post-production, jamais généré par l'IA.
+**Pour les prompts de génération IA :** les générateurs d'image ne reproduisent pas fidèlement un logo existant à partir d'une simple description texte. Sauf si l'outil utilisé accepte une image de référence en entrée (upload direct du fichier `assets/logo/bmk-logo.png` en complément du prompt texte, ce que permettent ChatGPT et Nano Banana/Gemini via leurs fonctions d'édition/composition à partir d'image), chaque prompt continue à réserver un espace vide en bas à droite (repère générique triangle/pic de montagne minimaliste dans les couleurs de la charte) — le vrai logo est alors incrusté en post-production à partir du fichier du dépôt, jamais généré par l'IA à partir de zéro.
 
 ## Coordonnées de marque à afficher
 
