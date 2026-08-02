@@ -90,7 +90,7 @@
 
 ## Publication 4 — « Pourquoi le suivi de chantier change tout »
 
-**Format :** Post simple, 1 slide.
+**Format :** Carrousel, 5 slides (converti depuis un post simple le 2 août 2026, à la demande de la direction).
 
 **Légende Instagram :**
 > Un bon plan ne garantit pas un bon bâtiment. Ce qui fait la différence, c'est ce qui se passe entre le plan et la réception des clés.
@@ -103,9 +103,14 @@
 
 **Hashtags :** #BmkArchitects #SuiviDeChantier #MaîtriseDœuvre #ArchitectureCameroun
 
-**Contenu écran (slide unique) :** « POURQUOI LE SUIVI DE CHANTIER CHANGE TOUT » + accroche courte tirée de la légende, en surimpression sur le visuel.
+**Contenu écran par slide :**
+1. Accroche — « POURQUOI LE SUIVI DE CHANTIER CHANGE TOUT » + « Entre le plan et la réception des clés »
+2. « 01 » — « Le plan devient réalité » — vérifier que les matériaux et les dimensions construits correspondent bien à ce qui a été dessiné
+3. « 02 » — « Délais et budget maîtrisés » — tenir le cap fixé au départ
+4. « 03 » — « Les ajustements du terrain » — arbitrer sur place les imprévus qu'aucun plan ne peut totalement anticiper
+5. Clôture/signature — « Un bon plan ne suffit pas. On reste avec vous jusqu'à la fin. »
 
-**Note prioritaire :** ce post est l'occasion la plus indiquée d'utiliser une vraie photo de chantier BMK (déficit de contenu coulisses identifié dans `BRIEF-BMK.md`), plutôt qu'un rendu 3D ou une illustration générique.
+**Note prioritaire :** ce sujet reste l'occasion la plus indiquée d'utiliser de vraies photos de chantier BMK (déficit de contenu coulisses identifié dans `BRIEF-BMK.md`) pour tout ou partie des slides, plutôt que des illustrations générées — la version carrousel ci-dessous en illustration abstraite est la version de secours si aucune photo n'est disponible.
 
 ---
 
