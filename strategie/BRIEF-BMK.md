@@ -96,5 +96,9 @@ Positionnement clair, fiches projets détaillées et crédibles (inscriptions ON
 - **Production visuelle :** gérée directement par la direction (Munkam Kuetche Christian) — les sous-agents ne produisent pas de visuels, seulement des briefs indiquant quel type de visuel préparer/envoyer.
 - **Rythme de publication cible :** **1 publication/semaine**, rythme jugé réaliste compte tenu des ressources actuelles (à réévaluer si les moyens évoluent — les concurrents les plus actifs comme ZFA Architects publient davantage, cf. §6).
 
+## 9. Charte graphique — voir fichier dédié
+
+Toute production visuelle (brief, prompt de génération d'image, mise en page) doit se conformer à `strategie/charte-graphique.md`, mis à jour le 2 août 2026 : l'accent de marque est le **vert `#73c34a`** (couleur du logo réel), et non plus le terracotta utilisé dans les tout premiers briefs. Ce fichier précise aussi le placement du site web (www.bmkarchitects.com) et du compte Instagram (@bmkarchitects) sur les visuels, ainsi que les exigences de production (fichiers distincts par slide, qualité maximale).
+
 ---
-*Sources complètes : `strategie/documents/01_Contexte_Entreprise_BMK.docx`, `02_Communication_SWOT_BMK.docx`, `03_Offres_Services_BMK.docx`, `04_Analyse_Concurrentielle_BMK.docx`.*
+*Sources complètes : `strategie/documents/01_Contexte_Entreprise_BMK.docx`, `02_Communication_SWOT_BMK.docx`, `03_Offres_Services_BMK.docx`, `04_Analyse_Concurrentielle_BMK.docx`, `strategie/charte-graphique.md`, `strategie/pilier-conseil-textes-valides.md`.*
