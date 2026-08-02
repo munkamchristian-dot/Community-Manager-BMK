@@ -125,7 +125,7 @@
 
 > **Historique :** le format initial (« Traduction architecte-français », CE QU'ON DIT / CE QU'ON PENSE, 5 slides) est remplacé par 3 sketches en dialogue, rédigés directement par la direction. Conservé en archive en bas de cette section, réutilisable pour une future publication humoristique distincte. **Cette publication reste la seule à registre humoristique du pilier conseil — changement de registre volontaire.**
 
-**Format :** Carrousel comique, 9 slides — 3 sketches de 3 slides chacun (pas de slide de cover/clôture séparée, chaque sketch se suffit à lui-même).
+**Format :** Carrousel comique, 8 slides — sketchs 1 et 2 en 3 slides chacun (6 slides), sketch 3 en 2 slides format BD à 2 cases (voir note v3 ci-dessous) — 8 au total, pas de slide de cover/clôture séparée.
 
 **Contrainte de ton :** personnages génériques (« Client », « Architecte », « Entrepreneur ») jamais nommés ni identifiables à une personne ou un chantier réel de BMK. Le budget « 45 millions » du sketch 1 est un montant comique et volontairement flou (pas une référence à un vrai projet ou un vrai client — ne pas préciser la devise dans le texte, c'est le ressort de la chute).
 
@@ -141,11 +141,14 @@
 5. La « petite modification » (liste) : Déplacer l'escalier — Changer toute la façade — Ajouter un étage — Tourner la maison de 90°
 6. Architecte, 9h05 : 💀
 
-### Sketch 3 — « Le chantier » (slides 7 à 9, version adoucie validée le 2 août 2026)
+### Sketch 3 — « Le chantier » (2 slides — v3, format BD à 2 cases, validé le 2 août 2026)
 
-7. Entrepreneur (au téléphone, tout sourire) : « Chef, ça avance, ça avance ! »
-8. L'architecte arrive sur le chantier (liste, icônes 👀 plutôt que ❌ — le chantier est le sujet des écarts, pas l'entrepreneur) : La fenêtre a un peu bougé — La porte s'est retournée — L'escalier a pris une autre forme — Un poteau fait une pause
-9. Entrepreneur (l'air complice, pas gêné) : « Le chantier a ses humeurs, chef ! »
+> Ce sketch passe de 3 à 2 slides : la scène de l'appel et la liste des écarts sont réunies en 2 cases de bande dessinée sur un même visuel, la chute reste seule. **Cette restructuration en cases BD s'applique à ce sketch ; si elle convient, elle pourra être étendue aux sketchs 1 et 2 sur demande ultérieure de la direction — non fait à ce stade.**
+
+7. **Slide A (2 cases BD) :**
+   - Case 1 — Entrepreneur (au téléphone, tout sourire) : « Chef, ça avance, ça avance ! »
+   - Case 2 — L'architecte arrive sur le chantier (liste, icônes 👀 plutôt que ❌ — le chantier est le sujet des écarts, pas l'entrepreneur) : La fenêtre a un peu bougé — La porte s'est retournée — L'escalier a pris une autre forme — Un poteau fait une pause
+8. **Slide B (1 case) :** Entrepreneur (l'air complice, pas gêné) : « Le chantier a ses humeurs, chef ! »
 
 **Légende Instagram (à valider/ajuster si besoin) :**
 > On vous avait promis un peu de sérieux cette semaine. On a changé d'avis.
