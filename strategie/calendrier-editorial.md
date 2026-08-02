@@ -58,13 +58,13 @@ Produites par `redacteur-contenu` sur brief du `directeur-marketing`, à la dema
 
 | # | Sujet | Format | Statut QA |
 |---|---|---|---|
-| 1 | Le terrain avant l'architecte — 4 choses à vérifier | Carrousel pédagogique (**6 slides** — corrigé de 5 à 6, le texte compte 4 points distincts) | Validé |
+| 1 | Le bon moment pour nous appeler ? (repositionné le 2 août 2026 — v2, voir historique dans `pilier-conseil-textes-valides.md`) | Carrousel pédagogique (6 slides) | Validé après 2 itérations — angle recentré sur « dès l'idée », le terrain n'est plus l'accroche |
 | 2 | 5 signes qu'il faut réhabiliter plutôt que reconstruire | Post liste (1 visuel) | Validé — met en avant une vraie expertise BMK sans nommer de client |
 | 3 | Le vrai coût d'un projet (postes de dépense oubliés) | Post simple, mini-anecdote | Validé avec réserve — l'anecdote est un procédé générique, pas un témoignage client vérifié ; à faire valider par la direction si un ton plus factuel est préféré |
 | 4 | Pourquoi le suivi de chantier change tout | Post simple | Validé — voir §D.2 : opportunité prioritaire pour combler le déficit de contenu chantier/coulisses |
 | 5 | **[Humoristique]** Traduction architecte-français | Carrousel comique (**5 slides** — corrigé de 4-5 à 5, cover + 3 exemples + clôture) | Validé — humour centré sur le métier, aucun client visé ni identifiable |
 
-*Prompts de génération IA finalisés et validés le 2 août 2026 : `strategie/prompts-ia-pilier-conseil.md` (charte vert #73c34a, logo réel `assets/logo/bmk-logo.png`, coordonnées site/Instagram, qualité 4K). Reste à faire : la direction génère les visuels avec ces prompts (ou fournit une vraie photo de chantier pour la publication 4), choisit l'ordre et les dates de publication parmi ces 5, puis le `directeur-marketing` les insère dans la grille mensuelle avec statut « Prêt à publier ».*
+*Prompts de génération IA finalisés le 2 août 2026 : `strategie/prompts-ia-pilier-conseil.md` (charte vert #73c34a, qualité 4K ; logo/site web/Instagram/hashtag ne sont plus dans les prompts — ajoutés en post-production Photoshop par la direction sur chaque slide, voir `charte-graphique.md`). Reste à faire : la direction génère les visuels avec ces prompts (ou fournit une vraie photo de chantier pour la publication 4), habille chaque slide en Photoshop (logo, site, Instagram), choisit l'ordre et les dates de publication parmi ces 5, puis le `directeur-marketing` les insère dans la grille mensuelle avec statut « Prêt à publier ».*
 
 ---
 *Calendrier vivant — mis à jour par `directeur-marketing` au fil des livrables reçus et des décisions de la direction.*

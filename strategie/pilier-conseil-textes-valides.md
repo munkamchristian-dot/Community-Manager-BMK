@@ -4,28 +4,34 @@
 
 ---
 
-## Publication 1 — « Le terrain avant l'architecte : 4 choses à vérifier avant de nous appeler »
+## Publication 1 — « Le bon moment pour nous appeler ? Souvent plus tôt que vous ne le pensez » (v2, repositionnée le 2 août 2026)
+
+> **Historique :** le sujet initial (« Le terrain avant l'architecte : 4 choses à vérifier avant de nous appeler ») a été rejeté par la direction — il sous-entendait que BMK n'intervient qu'une fois le terrain déjà acquis. Une première accroche de remplacement (« Pas encore de terrain... c'est déjà le bon moment pour nous appeler ») a aussi été rejetée : elle sonnait comme une accroche de vendeur de terrain. Version ci-dessous validée après 2 itérations.
 
 **Format :** Carrousel pédagogique, 6 slides.
 
 **Légende Instagram :**
-> Un bon projet commence souvent avant le premier coup de crayon.
+> On pense souvent qu'il faut attendre d'avoir « tout réglé » avant de parler à un architecte. Dans les faits, c'est rarement le bon calcul.
 >
-> Avant de contacter un architecte, quatre choses valent la peine d'être vérifiées de votre côté : le titre foncier est-il à jour ? Le terrain est-il viabilisé (accès, eau, électricité) ? Y a-t-il une pente ou un risque d'inondation à connaître ? Et surtout : quel budget global êtes-vous prêt à mobiliser, au-delà de la construction elle-même ?
+> Concrètement, on peut déjà vous accompagner pour : clarifier une idée encore floue et la transformer en intentions de projet ; évaluer un terrain avant même de l'acheter, pour sécuriser votre décision ; cadrer un premier budget réaliste ; explorer plusieurs pistes avant de s'engager sur une direction.
 >
-> Ces quatre points nous font gagner un temps précieux — et vous évitent de mauvaises surprises en cours de route.
+> Plus on intervient tôt, plus on peut vous faire gagner du temps — et éviter des choix difficiles à corriger plus tard.
 >
-> Et vous, où en êtes-vous de votre projet : encore à l'étape du terrain, ou déjà prêt à en parler à un architecte ? Dites-le-nous en commentaire.
+> Où en êtes-vous : encore à l'étape de l'idée, ou déjà prêt à en parler concrètement ? Dites-le-nous en commentaire.
 
-**Hashtags :** #BmkArchitects #ConseilArchitecture #ProjetImmobilier #ArchitectureCameroun
+**Hashtags :** #BmkArchitects #ConseilArchitecture #IdéeDeProjet #ArchitectureCameroun
+
+**Contrainte de positionnement (impérative) :** ne jamais faire du terrain l'objet de l'accroche ou de l'appel à l'action — le terrain n'est qu'un des quatre exemples d'accompagnement, cité dans le corps du texte, jamais en position de titre. L'angle central est « dès l'idée », pas « dès le terrain ».
 
 **Contenu écran par slide :**
-1. Accroche — « LE TERRAIN AVANT L'ARCHITECTE » + « 4 choses à vérifier avant de nous appeler »
-2. « 01 » — « Le titre foncier » — statut juridique, absence de litige/hypothèque
-3. « 02 » — « La viabilisation » — accès eau, électricité, voirie
-4. « 03 » — « Le terrain et sa pente » — relief, nature du sol
-5. « 04 » — « Le budget » — coûts induits par le terrain (terrassement, fondations spéciales…)
-6. CTA/signature — appel à contacter BMK + logo + #BmkArchitects
+1. Accroche — « LE BON MOMENT POUR NOUS APPELER ? » + « Souvent plus tôt que vous ne le pensez »
+2. « 01 » — « Clarifier votre idée » — traduire une envie encore floue en besoin concret
+3. « 02 » — « Évaluer un terrain avant de l'acheter » — analyse et sécurisation avant engagement
+4. « 03 » — « Poser un premier budget réaliste » — même approximatif, dès le départ
+5. « 04 » — « Explorer plusieurs pistes » — comparer des scénarios avant de figer quoi que ce soit
+6. CTA/signature — « Une idée, même floue ? Parlons-en. »
+
+**Note de direction artistique :** éviter les icônes à connotation administrative (document, tampon) qui recréeraient l'ancien sous-entendu « vérification préalable » — privilégier des visuels évoquant l'échange et la réflexion en amont (croquis, esquisses, ampoule/idée) plutôt que des éléments de contrôle ou de conformité.
 
 ---
 
