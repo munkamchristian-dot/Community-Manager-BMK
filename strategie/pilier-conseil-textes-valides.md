@@ -61,7 +61,7 @@
 
 ## Publication 3 — « Le vrai coût d'un projet : ce qu'on oublie souvent de budgétiser »
 
-**Format :** Post simple, 1 slide, mini-anecdote.
+**Format :** Carrousel, 6 slides (converti depuis un post simple le 2 août 2026, à la demande de la direction — même logique de découpage que la publication 1).
 
 **Légende Instagram :**
 > Il y a quelques mois, un futur client nous a dit : « J'ai déjà mon budget, il ne me manque que les plans. » Une phrase qu'on entend souvent — et qui cache presque toujours un oubli.
@@ -76,7 +76,15 @@
 
 **⚠ Réserve QA (non résolue) :** l'anecdote d'ouverture est un procédé générique, pas un témoignage client vérifié. Le visuel ne doit jamais la traiter comme une citation attribuée (pas de bulle de citation, pas d'avatar/portrait).
 
-**Contenu écran (slide unique) :** « LE VRAI COÛT D'UN PROJET » + « ce qu'on oublie souvent de budgétiser » + l'accroche/anecdote traitée comme texte informatif à la troisième personne.
+**Contenu écran par slide :**
+1. Accroche — « LE VRAI COÛT D'UN PROJET » + « ce qu'on oublie souvent de budgétiser »
+2. « 01 » — « Les études de sol » — poste souvent absent du premier chiffrage
+3. « 02 » — « Les raccordements » — eau, électricité, voirie
+4. « 03 » — « Les finitions et l'aménagement extérieur » — au-delà du bâti lui-même
+5. « 04 » — « La marge pour imprévus » — il y en a toujours sur un chantier
+6. CTA/signature — « On en parle dès le premier échange, pas en cours de route. »
+
+**Rappel :** aucune de ces slides ne doit présenter l'anecdote d'ouverture de la légende comme une citation attribuée — les slides restent factuelles/informatives, l'anecdote reste réservée au texte de légende (avec sa réserve QA déjà signalée).
 
 ---
 
