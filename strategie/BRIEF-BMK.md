@@ -89,5 +89,12 @@ Positionnement clair, fiches projets détaillées et crédibles (inscriptions ON
 6. Envisager une présence LinkedIn pour toucher les décideurs institutionnels/bancaires.
 7. Construire 1-2 projets « signature » très visibles pour ancrer une notoriété qui dépasse les algorithmes des réseaux sociaux.
 
+## 8. Décisions stratégiques validées avec la direction (2 août 2026)
+
+- **Objectif prioritaire (3-6 mois) :** construire la **notoriété et l'image de marque globale** de BMK Architects — pas un objectif de génération de leads ciblés en priorité. Le contenu doit donc privilégier la mémorabilité et la cohérence de marque sur tous les piliers (résidentiel, institutionnel, coulisses, pédagogique) plutôt que de sur-indexer sur un seul segment client.
+- **Confidentialité des projets institutionnels/bancaires :** à vérifier **au cas par cas**, pas de règle générale. Par défaut, tout contenu évoquant un projet institutionnel/bancaire nommé (BAD, BEAC, CNPS, Crédit Foncier…) doit être marqué « à valider » dans le calendrier tant que l'accord du client concerné n'est pas confirmé par la direction. Formuler ces posts de façon générique en attendant, si besoin.
+- **Production visuelle :** gérée directement par la direction (Munkam Kuetche Christian) — les sous-agents ne produisent pas de visuels, seulement des briefs indiquant quel type de visuel préparer/envoyer.
+- **Rythme de publication cible :** **1 publication/semaine**, rythme jugé réaliste compte tenu des ressources actuelles (à réévaluer si les moyens évoluent — les concurrents les plus actifs comme ZFA Architects publient davantage, cf. §6).
+
 ---
 *Sources complètes : `strategie/documents/01_Contexte_Entreprise_BMK.docx`, `02_Communication_SWOT_BMK.docx`, `03_Offres_Services_BMK.docx`, `04_Analyse_Concurrentielle_BMK.docx`.*
