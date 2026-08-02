@@ -4,7 +4,7 @@
 
 ---
 
-## Publication 1 — « Le bon moment pour nous appeler ? Souvent plus tôt que vous ne le pensez » (v2, repositionnée le 2 août 2026)
+## Publication 1 — « Le bon moment pour faire appel à l'architecte ? Souvent plus tôt que vous ne le pensez » (v2, repositionnée le 2 août 2026)
 
 > **Historique :** le sujet initial (« Le terrain avant l'architecte : 4 choses à vérifier avant de nous appeler ») a été rejeté par la direction — il sous-entendait que BMK n'intervient qu'une fois le terrain déjà acquis. Une première accroche de remplacement (« Pas encore de terrain... c'est déjà le bon moment pour nous appeler ») a aussi été rejetée : elle sonnait comme une accroche de vendeur de terrain. Version ci-dessous validée après 2 itérations.
 
@@ -24,7 +24,7 @@
 **Contrainte de positionnement (impérative) :** ne jamais faire du terrain l'objet de l'accroche ou de l'appel à l'action — le terrain n'est qu'un des quatre exemples d'accompagnement, cité dans le corps du texte, jamais en position de titre. L'angle central est « dès l'idée », pas « dès le terrain ».
 
 **Contenu écran par slide :**
-1. Accroche — « LE BON MOMENT POUR NOUS APPELER ? » + « Souvent plus tôt que vous ne le pensez »
+1. Accroche — « LE BON MOMENT POUR FAIRE APPEL À L'ARCHITECTE ? » + « Souvent plus tôt que vous ne le pensez »
 2. « 01 » — « Clarifier votre idée » — traduire une envie encore floue en besoin concret
 3. « 02 » — « Évaluer un terrain avant de l'acheter » — analyse et sécurisation avant engagement
 4. « 03 » — « Poser un premier budget réaliste » — même approximatif, dès le départ

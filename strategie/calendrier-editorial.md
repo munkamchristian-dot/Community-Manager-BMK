@@ -58,7 +58,7 @@ Produites par `redacteur-contenu` sur brief du `directeur-marketing`, à la dema
 
 | # | Sujet | Format | Statut QA |
 |---|---|---|---|
-| 1 | Le bon moment pour nous appeler ? (repositionné le 2 août 2026 — v2, voir historique dans `pilier-conseil-textes-valides.md`) | Carrousel pédagogique (6 slides) | Validé après 2 itérations — angle recentré sur « dès l'idée », le terrain n'est plus l'accroche |
+| 1 | Le bon moment pour faire appel à l'architecte ? (repositionné le 2 août 2026 — v2, voir historique dans `pilier-conseil-textes-valides.md`) | Carrousel pédagogique (6 slides) | Validé après 2 itérations — angle recentré sur « dès l'idée », le terrain n'est plus l'accroche |
 | 2 | 5 signes qu'il faut réhabiliter plutôt que reconstruire | Post liste (1 visuel) | Validé — met en avant une vraie expertise BMK sans nommer de client |
 | 3 | Le vrai coût d'un projet (postes de dépense oubliés) | Post simple, mini-anecdote | Validé avec réserve — l'anecdote est un procédé générique, pas un témoignage client vérifié ; à faire valider par la direction si un ton plus factuel est préféré |
 | 4 | Pourquoi le suivi de chantier change tout | Post simple | Validé — voir §D.2 : opportunité prioritaire pour combler le déficit de contenu chantier/coulisses |
