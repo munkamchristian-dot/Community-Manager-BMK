@@ -19,16 +19,16 @@ Le logo réel de BMK Architects a été fourni par la direction (fichier image) 
 
 **Statut du fichier logo :** récupéré et versé dans le dépôt sous `assets/logo/bmk-logo.png` (2000×889 px, fond transparent, vert vérifié conforme à `#73c34a`). C'est ce fichier qui doit être utilisé pour toute incrustation en post-production.
 
-**Pour les prompts de génération IA :** les générateurs d'image ne reproduisent pas fidèlement un logo existant à partir d'une simple description texte. Sauf si l'outil utilisé accepte une image de référence en entrée (upload direct du fichier `assets/logo/bmk-logo.png` en complément du prompt texte, ce que permettent ChatGPT et Nano Banana/Gemini via leurs fonctions d'édition/composition à partir d'image), chaque prompt continue à réserver un espace vide en bas à droite (repère générique triangle/pic de montagne minimaliste dans les couleurs de la charte) — le vrai logo est alors incrusté en post-production à partir du fichier du dépôt, jamais généré par l'IA à partir de zéro.
+**Pour les prompts de génération IA :** les générateurs d'image ne reproduisent pas fidèlement un logo existant à partir d'une simple description texte, et rendent le texte en général de façon peu fiable (accents français en particulier). **Décision de la direction (2 août 2026) : le logo n'est plus mentionné du tout dans les prompts de génération.** Les prompts ne demandent que le contenu principal (titre, sous-titre, illustration) ; le logo est ajouté entièrement en post-production sous Photoshop à partir de `assets/logo/bmk-logo.png`, sur chaque slide, par la direction.
 
 ## Coordonnées de marque à afficher
 
-Deux éléments doivent apparaître de façon cohérente sur les visuels, en plus du logo :
+Deux éléments doivent apparaître de façon cohérente sur les visuels publiés, en plus du logo :
 
 - **Site web :** www.bmkarchitects.com
 - **Compte Instagram :** @bmkarchitects
 
-**Règle de placement :** sur la slide de couverture ou de clôture de chaque publication (carrousel) — ou en bas du visuel pour un post simple — afficher une petite ligne de coordonnées regroupant le site et le compte Instagram, en texte discret (taille inférieure au corps de texte principal), dans la couleur neutre secondaire `#B8B5AE` ou l'anthracite `#1E1E1C`. Ne pas les répéter sur les slides intermédiaires d'un carrousel (titre/contenu) pour ne pas surcharger — uniquement cover et/ou clôture.
+**Règle de placement (mise à jour du 2 août 2026) :** ces coordonnées, ainsi que le hashtag `#BmkArchitects`, **ne sont plus demandées dans les prompts de génération d'image** — la direction a jugé plus fiable de les ajouter elle-même sous Photoshop en post-production sur chaque slide, plutôt que de laisser l'IA tenter de les écrire (risque de texte déformé ou de mentions non désirées). Emplacement recommandé pour l'ajout manuel : en bas du visuel, sur la slide de couverture et/ou de clôture pour un carrousel, en bas du visuel pour un post simple ; texte discret, couleur `#B8B5AE` ou `#1E1E1C`. Ne pas les répéter sur les slides intermédiaires d'un carrousel.
 
 ## Exigences de production des visuels générés par IA
 
