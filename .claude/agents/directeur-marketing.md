@@ -50,6 +50,7 @@ Utilise l'outil `Agent` pour déléguer, jamais pour produire toi-même :
 |---|---|
 | Légende Instagram, texte de post, message de réponse commerciale | `redacteur-contenu` |
 | Brief visuel (cadrage, format Reel/carrousel/post, ambiance, quel rendu ou quelle prise de vue utiliser) | `directeur-artistique` |
+| Feuille de montage vidéo pour un Reel (découpage plan par plan, transitions, textes à l'écran, musique, export) | `expert-premiere-pro` |
 | Réponse à un commentaire/DM, veille de la communauté, remontée de signaux | `community-engagement` |
 | Analyse de performance d'une publication ou d'une période, bilan, ajustement du calendrier | `analyste-performance` |
 
